@@ -3,6 +3,8 @@ description: "Port of Java's Scanner class to Dart."
 homepage: "https://github.com/thosakwe/scanner.git"
 name: "scanner"
 version: "1.0.0"
+environment:
+  sdk: ">=1.19.0"
 dependencies: 
   charcode: "^1.1.1"
   stream_reader: "^1.0.0"
